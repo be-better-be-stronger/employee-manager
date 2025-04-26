@@ -7,7 +7,7 @@
 ---
 
 ## 1. Thêm nhân viên
-- [ ] Thêm nhân viên với dữ liệu hợp lệ
+- [x] Thêm nhân viên với dữ liệu hợp lệ
 - [ ] Không nhập tên ➔ Báo lỗi
 - [ ] Không nhập chức vụ ➔ Báo lỗi
 - [ ] Nhập lương âm ➔ Báo lỗi
