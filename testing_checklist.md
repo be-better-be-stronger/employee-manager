@@ -7,26 +7,26 @@
 ---
 
 ## 1. Thêm nhân viên
-- [ ] Thêm nhân viên với dữ liệu hợp lệ
-- [ ] Không nhập tên ➔ Báo lỗi
-- [ ] Không nhập chức vụ ➔ Báo lỗi
-- [ ] Nhập lương âm ➔ Báo lỗi
+- [x] Thêm nhân viên với dữ liệu hợp lệ
+- [x] Không nhập tên ➔ Báo lỗi
+- [x] Không nhập chức vụ ➔ Báo lỗi
+- [x] Nhập lương âm ➔ Báo lỗi
 
 ## 2. Xem danh sách nhân viên
-- [ ] Khi có nhân viên ➔ Hiển thị đúng danh sách
-- [ ] Khi DB trống ➔ Báo "Không có nhân viên"
+- [x] Khi có nhân viên ➔ Hiển thị đúng danh sách
+- [x] Khi DB trống ➔ Báo "Không có nhân viên"
 
 ## 3. Tìm kiếm nhân viên
-- [ ] Tìm nhân viên theo tên đúng
-- [ ] Tìm nhân viên không tồn tại ➔ Báo "Không tìm thấy"
+- [x] Tìm nhân viên theo tên đúng
+- [x] Tìm nhân viên không tồn tại ➔ Báo "Không tìm thấy"
 
 ## 4. Cập nhật nhân viên
-- [ ] Cập nhật lương nhân viên hợp lệ
-- [ ] Cập nhật nhân viên không tồn tại ➔ Báo lỗi
+- [x] Cập nhật lương nhân viên hợp lệ
+- [x] Cập nhật nhân viên không tồn tại ➔ Báo lỗi
 
 ## 5. Xóa nhân viên
-- [ ] Xóa nhân viên đúng ID
-- [ ] Xóa nhân viên với ID sai ➔ Báo lỗi
+- [x] Xóa nhân viên đúng ID
+- [x] Xóa nhân viên với ID sai ➔ Báo lỗi
 
 ---
 
