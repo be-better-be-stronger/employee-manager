@@ -1,4 +1,4 @@
-package mohinh_mvc.model;
+package main.java.model;
 
 public class Employee {
 	private int id;

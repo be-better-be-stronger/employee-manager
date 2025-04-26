@@ -1,4 +1,4 @@
-package mohinh_mvc.dao;
+package main.java.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,8 +7,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import mohinh_mvc.DBConnection;
-import mohinh_mvc.model.Employee;
+import main.DBConnection;
+import main.java.model.Employee;
 
 public class EmployeeDAO {
 	public void addEmployee(Employee emp) {

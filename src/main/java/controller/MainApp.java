@@ -1,10 +1,10 @@
-package mohinh_mvc.controller;
+package main.java.controller;
 
 import java.util.List;
 import java.util.Scanner;
 
-import mohinh_mvc.model.Employee;
-import mohinh_mvc.service.EmployeeService;
+import main.java.model.Employee;
+import main.java.service.EmployeeService;
 
 public class MainApp {
 	

@@ -1,9 +1,9 @@
-package mohinh_mvc.service;
+package main.java.service;
 
 import java.util.List;
 
-import mohinh_mvc.dao.EmployeeDAO;
-import mohinh_mvc.model.Employee;
+import main.java.dao.EmployeeDAO;
+import main.java.model.Employee;
 
 public class EmployeeService {
 	private EmployeeDAO dao = new EmployeeDAO();
