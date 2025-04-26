@@ -12,6 +12,11 @@
 - [x] Không nhập chức vụ ➔ Báo lỗi
 - [x] Nhập lương âm ➔ Báo lỗi
 
+- [x] Không nhập tên ➔ Báo lỗi
+- [x] Không nhập chức vụ ➔ Báo lỗi
+- [x] Nhập lương âm ➔ Báo lỗi
+
+
 ## 2. Xem danh sách nhân viên
 - [x] Khi có nhân viên ➔ Hiển thị đúng danh sách
 - [x] Khi DB trống ➔ Báo "Không có nhân viên"
