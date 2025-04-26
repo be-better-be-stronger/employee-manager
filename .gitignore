@@ -1,0 +1,24 @@
+# Ignore file compiled by Java
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.bak
+
+# Ignore build directory
+/out/
+target/
+bin/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
