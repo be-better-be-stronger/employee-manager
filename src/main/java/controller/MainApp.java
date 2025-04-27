@@ -4,11 +4,11 @@ import java.util.List;
 import java.util.Scanner;
 
 import main.java.model.Employee;
-import main.java.service.EmployeeService;
+import main.java.service.EmployeeServiceImpl;
 
 public class MainApp {
 	
-	private static EmployeeService service = new EmployeeService();
+	private static EmployeeServiceImpl service = new EmployeeServiceImpl();
 	private static Scanner scanner = new Scanner(System.in);
 	
 	public static void main(String[] args) {
